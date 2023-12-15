@@ -133,6 +133,8 @@ export default function App() {
   )
 }
 
+// git editor test
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
